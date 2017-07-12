@@ -24,4 +24,4 @@ CPSC-44000 Software Engineering
 * Spanish Community Center
 * Companions Journeying Together
 
-[new page](newpage.md)
+
