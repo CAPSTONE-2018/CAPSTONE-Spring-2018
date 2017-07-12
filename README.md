@@ -1,3 +1,13 @@
+## Instructor Information
+Dr. Cindy Howard  
+One University Parkway  
+Romeoville, IL 60446  
+[howardcy@lewisu.edu](mailto:howardcy@lewisu.edu)
+
+### Office Hours
+* Time: Tuesday/Thursday 12:30-3:30
+* Location: AS-131-L  
+
 ##  Course Description  
 In this course, students will participate, as part of a team, in the design, implementation and testing of a medium-to-large software project. Additionally, this course will cover topics in professional ethics, intellectual properties, privacy and professional communication.
 
@@ -7,19 +17,7 @@ This course provides students with an opportunity to incorporate knowledge from 
 ## Prerequisites  
 CPSC-44000 Software Engineering
 
----
-
-## Instructor Information
-Dr. Cindy Howard  
-One University Parkway  
-Romeoville, IL 60446  
-[howardcy@lewisu.edu](mailto:howardcy@lewisu.edu)
-
-### Office Hours
-Tuesday/Thursday 12:30-3:30 in AS-131-L  
-
----
-## Projects
+## Fall 2017 Projects
 * DuCAP
 * Community Lifeline Ministries
 * Foodbank
