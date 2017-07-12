@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+# Software Systems Capstone
 
-You can use the [editor on GitHub](https://github.com/Capstone-Fall-2017/Capstone-Fall-2017.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Instructor Information
+Dr. Cindy Howard  
+One University Parkway  
+Romeoville, IL 60446  
+[howardcy@lewisu.edu](mailto:howardcy@lewisu.edu)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**Office Hours**
+Tuesday/Thursday 12:30-3:30
+AS-131-L  
 
-### Markdown
+###  Course Description  
+In this course, students will participate, as part of a team, in the design, implementation and testing of a medium-to-large software project. Additionally, this course will cover topics in professional ethics, intellectual properties, privacy and professional communication.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Prerequisites  
+CPSC-44000 Software Engineering
 
-```markdown
-Syntax highlighted code block
+### Course Rationale
+This course provides students with an opportunity to incorporate knowledge from other core computer science courses to design, implement and test a large-scale software project.  Students will gain experience in software development in the context of a project that benefits the community.  Additionally, students will explore ethical issues in software development, identify service opportunities and work effectively in collaborative settings.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Capstone-Fall-2017/Capstone-Fall-2017.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Projects
+* DuCAP
+* Community Lifeline Ministries
+* Foodbank
+* Spanish Community Center
+* Companions Journeying Together
