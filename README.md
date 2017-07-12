@@ -5,9 +5,7 @@ Romeoville, IL 60446
 [howardcy@lewisu.edu](mailto:howardcy@lewisu.edu)
 
 **Office Hours**
-
 Tuesday/Thursday 12:30-3:30
-
 AS-131-L  
 
 ###  Course Description  
