@@ -1,5 +1,3 @@
-# Software Systems Capstone
-
 ## Instructor Information
 Dr. Cindy Howard  
 One University Parkway  
