@@ -20,7 +20,7 @@ CPSC-44000 Software Engineering
 ## Fall 2017 Projects
 
 ### Traditional Students
-* [Companions Journeying Together/Aunt Mary's Storybook](https://capstone-fall-2017.github.io/ams/)
+* [Companions Journeying Together/Aunt Mary's Storybook](https://capstone-fall-2017.github.io/amsb/)
 * [DuCAP](https://capstone-fall-2017.github.io/ducap/)
 * [Spanish Community Center](https://capstone-fall-2017.github.io/spanish-cc/)
 
