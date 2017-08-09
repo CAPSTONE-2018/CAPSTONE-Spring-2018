@@ -29,6 +29,6 @@ Since this course is "arranged", we have no set meeting time.  Please be sure to
 
 > Create the account with your lewisu email address.#  
 
-## [Projects](https://capstone-fall-2017.github.io/projects.md)
+## [Projects](projects.md)
 
-## [Assignments](https://capstone-fall-2017.github.io/projects.md)
+## [Assignments](assignments.md)
