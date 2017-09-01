@@ -3,25 +3,22 @@
 ### Week 1
 * Read syllabus
 * [Project Selection survey](https://goo.gl/forms/31idDZ1Wj5E1AaqG3)
+* Service learning pre-survey
 * GitHub assignment
 
 ### Week 2
 * Ethics assignment
 * Privacy assignment
 * Intellectual property assignment
-* Service learning pre-survey
+
 
 ### Week 3
 * Professional communications assignment
 * **Milestone 1** - development environment set-up assignment
 * Second milestone proposal
-
-### Week 4
 * Project management assignment (GitHub issues)
-* Work on current sprint
-* Provide a written update or attend a scheduled meeting
 
-### Weeks 5-14
+### Weeks 4-14
 * Work on current sprint
 * Provide a written update or attend a scheduled meeting
 * Evaluate team members in weeks 8 and 12
