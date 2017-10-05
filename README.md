@@ -14,7 +14,7 @@ In this course, you will work in a team of 2-4 students to complete a "real-worl
 
 Projects will be completed using an agile approach.  Your team will be expected to identify and complete a minimum of 3 sprints.  A sprint is a set period of time during which specific work has to be completed and made ready for review. The completion of each sprint will be considered a mandatory milestone and **failure to complete the sprint will result in being dropped from the course**.
 
-[Course Syllabus](https://1drv.ms/w/s!Asn_r9P-WxNPhOMKur0GTdITuXO7iQ)
+<a href="https://1drv.ms/w/s!Asn_r9P-WxNPisZhYz6pvFubpnosnQ" target="_blank">Course Syllabus</a>
 
 ## Communication
 Since this course is "arranged", we have no set meeting time.  Please be sure to check your Lewis email **daily**, since this is how I will communicate with you.  I'd prefer to use Slack.  If you haven't already joined the CaMS team, please do so by following the instructions below.  Once you have an account, let me know and I will add you to the private group.
