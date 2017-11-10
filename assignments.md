@@ -35,10 +35,12 @@
 * Work on third sprint
 * Provide a written update or attend a scheduled meeting each week
 * Evaluate team members in week 12
-* Share an interesting code segment, problem or solution in the discussion boards in week 13
+* Begin writing user guide/help document in week 13
 * **Milestone 4** - submit completed sprint 3
 
 ### Finals Week
 * Present your completed project to the class and your client
 * Reflection paper
 * Service learning post-survey
+* Submit completed project via GitHub
+* Update GitHub issues for next team
