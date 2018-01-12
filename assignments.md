@@ -2,7 +2,8 @@
 
 ### Week 1
 * Read syllabus
-* [Project Selection survey](https://goo.gl/forms/31idDZ1Wj5E1AaqG3)
+
+* [Project Selection survey](https://docs.google.com/forms/d/e/1FAIpQLScrqO9I1OcchawPrBwp3q5e0AYPRsktHiwc0B6I4iYlt8LhWA/viewform)
 * Service learning pre-survey
 * GitHub assignment
 
