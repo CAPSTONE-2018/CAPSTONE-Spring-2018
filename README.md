@@ -1,12 +1,12 @@
 ## Instructor Information
-Dr. Cindy Howard  
+Michael J. Lewis  
 One University Parkway  
 Romeoville, IL 60446  
-[howardcy@lewisu.edu](mailto:howardcy@lewisu.edu)
+[mlewis8@lewisu.edu](mailto:mlewis8@lewisu.edu)
 
 ### Office Hours
-* Time: Tuesday/Thursday 12:30-3:30
-* Location: AS-131-L  
+* Time: Tuesday/Thursday 2:30-5:30
+* Location: AS-033-L  
 
 
 ## Introduction
@@ -14,10 +14,10 @@ In this course, you will work in a team of 2-4 students to complete a "real-worl
 
 Projects will be completed using an agile approach.  Your team will be expected to identify and complete a minimum of 3 sprints.  A sprint is a set period of time during which specific work has to be completed and made ready for review. The completion of each sprint will be considered a mandatory milestone and **failure to complete the sprint will result in being dropped from the course**.
 
-<a href="https://1drv.ms/w/s!Asn_r9P-WxNPisZhYz6pvFubpnosnQ" target="_blank">Course Syllabus</a>
+<a href="--" target="_blank">Course Syllabus</a>
 
 ## Communication
-Since this course is "arranged", we have no set meeting time.  Please be sure to check your Lewis email **daily**, since this is how I will communicate with you.  I'd prefer to use Slack.  If you haven't already joined the CaMS team, please do so by following the instructions below.  Once you have an account, let me know and I will add you to the private group.
+Since this course is "arranged", we have no set meeting time.  Please be sure to check your Lewis email **daily**, since this is how I will communicate with you.  You will use Slack for communication among teammates. Slack is a very convenient way to chat and collaborate with your group. I will use it often to check how well and often your group is working with each other.  If you haven't already joined the CaMS team, please do so by following the instructions below.  Once you have an account, let me know and I will add you to our private class channel. Once all the groups are created I will create a private channel specifically for your group.
 
 >​​Go to https://slack.com
 
